@@ -1,0 +1,16 @@
+#str {
+    display: flex;
+
+    font-size: 25px;
+    font-family: monospace;
+}
+
+#str div {
+    width: 15px;
+    height: 25px;
+
+    background: lightcyan;
+
+    cursor: pointer;
+    position: absolute;
+}
